@@ -26,7 +26,7 @@ Screenshot
 ![Currency Converter Screenshot](./assets/currency-converter.png)
 
 # Clone the repository
-git clone https://github.com/your-username/currency-converter.git
+git clone https://github.com/rachittaneja56-max/currency-converter.git
 # Change directory
 cd currency-converter
 # Install dependencies
