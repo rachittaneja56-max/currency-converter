@@ -34,7 +34,7 @@ Tech Stack used:
 
 4>Vite for fast bundling and development
 
-Live demo:
+Live demo: https://currency-converter-ecru-one.vercel.app/
 
 Screenshot
 ![Currency Converter Screenshot](./assets/currency-converter.png)
@@ -49,4 +49,5 @@ npm install
 npm run dev
 
 Author
+
 Rachit Taneja
